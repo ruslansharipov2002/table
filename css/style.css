@@ -17,7 +17,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap:80px;
 }
 
 .card1 {
@@ -26,6 +26,8 @@
     padding: 30px;
     width: 200px;
     height: 320px;
+    
+
 }
 
 .h3 {
